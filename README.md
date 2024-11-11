@@ -1,4 +1,5 @@
 This is my final graduation project for Naval Architecture and Marine Engineering in Piri Reis University.
+You can acsess it from ThesisBilalEmreGirit.pdf file
 
 The project is a python application that helps to find the most feasible way between two choosen point.
 
